@@ -1,0 +1,5 @@
+/venv
+/__psycache__
+*/__psycache__
+.env
+/migrations
